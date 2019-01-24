@@ -1,7 +1,7 @@
 # diversity indexes
-Calculation of basic ecological diversity indexes from a list of values
+Calculation of basic alpha diversity indexes from a list of values.
 
-This script calculates Richness (S), Evenness, Menhinick richness index (DMn) and the
+This script calculates Richness (S), Menhinick richness index (DMn), Simpson´s evenness, and the
 diversity indexes Shannon (H), Simpson (1-D), and Berger-Parker dominance index (1/d).
 
 # Installation
