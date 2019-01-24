@@ -6,7 +6,7 @@ diversity indexes Shannon (H), Simpson (1-D), and Berger-Parker dominance index 
 
 # Installation
 
-Just download the script and make it executable ```chmod +x div_index.v0.0.1.sh```, it does not need any special dependencies appart from those already found in any common linux distribution (Ubuntu).
+Just download the script ([latest release](https://github.com/GenomicaMicrob/diversity_indexes/releases/tag/v0.0.1)) and make it executable ```chmod +x div_index.v0.0.1.sh```, it does not need any special dependencies appart from those already found in any common linux distribution (Ubuntu).
 
 # Usage
 
